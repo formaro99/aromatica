@@ -1,0 +1,42 @@
+.main_title { font-size: 60px; font-weight: 100; line-height: 135%; letter-spacing: -1px; color: #fff; }
+.main_title span { font-weight: 500; }
+.main_subtitle { font-size: 20px; font-weight: 400; line-height: 135%; letter-spacing: -0.5px; color: #f2f2f2; }
+
+.main_btn {
+    font-size: 16px; font-weight: 300; line-height: 44px; letter-spacing: -1px; color: #f2f2f2;
+    width: 205px; height: 44px; border: solid 1px #f2f2f2; border-radius: 4px; margin: 0 auto;
+    transition: .3s;
+}
+
+.contents_title_large { font-size: 30px; font-weight: 600; line-height: 140%; letter-spacing: -1px; color: #111; }
+.contents_title_medium { font-size: 20px; font-weight: 700; line-height: 140%; letter-spacing: -1px; color: #fff; }
+.contents_title_small { font-size: 16px; font-weight: 600; line-height: 140%; letter-spacing: -0.5px; }
+.contents_subtitle_large { font-size: 16px; font-weight: 400; line-height: 140%; letter-spacing: -0.5px; color: #111; }
+.contents_subtitle_medium { font-size: 14px; font-weight: 600; line-height: 140%; letter-spacing: -1px; color: #111; }
+.contents_subtitle_small { font-size: 16px; font-weight: 300; line-height: 140%; letter-spacing: -0.5px; color: #6B6B6B; }
+
+.contents_article_small { font-size: 14px; font-weight: 400; line-height: 140%; letter-spacing: -1px; color: #555; }
+.contents_article_xsmall { font-size: 14px; font-weight: 400; line-height: 140%; letter-spacing: -0.4px; color: #555; }
+.contents_article { font-size: 15px; font-weight: 400; line-height: 140%; letter-spacing: -0.3px; color: #fff; }
+
+.product_price { font-size: 16px; font-weight: 600; line-height: 140%; letter-spacing: -0.5px; text-decoration: line-through; color: #ddd; }
+.product_sale_price { font-size: 20px; font-weight: 600; line-height: 140%; letter-spacing: -0.5px; color: #fff; }
+.product_sale_per { font-size: 20px; font-weight: 600; line-height: 140%; letter-spacing: -0.5px; color: #C03700; }
+
+.contents_btn { 
+    font-size: 13px; font-weight: 500; line-height: 200%; letter-spacing: -0.75px;
+    text-decoration: underline; padding: 2; color: #555; transition: .3s;
+}
+.contents_btn:hover {  font-size: 15px; color: #004A25; }
+
+.add_cart_btn {
+    width: 100%; padding: 8px 0; border-radius: 4px; box-sizing: border-box; text-align: center;
+    border: solid 1px #cecece; font-size: 14px; font-weight: 300; line-height: 200%; letter-spacing: -1px;
+    transition: .3s; color: #999;
+}
+.add_cart_btn:hover {
+    background: #004A25; color: #fff;
+}
+
+.footer_gnb { font-size: 18px; font-weight: 500; line-height: 140%; letter-spacing: -1px; text-decoration: underline; color: #111; transition: .3s; }
+.footer_gnb:hover { color: #004A25; }
